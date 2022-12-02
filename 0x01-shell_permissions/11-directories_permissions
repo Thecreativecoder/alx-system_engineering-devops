@@ -1,2 +1,2 @@
 #!/bin/bash
-xhmod ugo+x *\
+xhmod ugo+x */
