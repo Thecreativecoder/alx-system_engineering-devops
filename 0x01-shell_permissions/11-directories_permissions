@@ -1,2 +1,2 @@
 #!/bin/bash
-xhmod a+x */
+xhmod -R +X .
